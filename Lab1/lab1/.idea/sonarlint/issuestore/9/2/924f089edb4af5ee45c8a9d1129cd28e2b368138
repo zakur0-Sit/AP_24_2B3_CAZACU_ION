@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8â‰„øŞ1
+L	java:S106"+Replace this use of System.out by a logger.(½¦ÿÿÿÿÿ8æ‰„øŞ1
+G
+java:S1197"*Move the array designators [] to the type.(Ö“Íë8ç‰„øŞ1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Š“’½úÿÿÿÿ8ç‰„øŞ1
+G	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8è‰„øŞ1
+L	java:S106"+Replace this use of System.out by a logger.( ½æ“ûÿÿÿÿ8é‰„øŞ1
