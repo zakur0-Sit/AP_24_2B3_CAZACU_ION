@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8úˆ€£ã1
+d
+java:S1854,"BRemove this useless assignment to local variable "distanceMatrix".(Ëß¿—üÿÿÿÿ8¹”ð£ã1
+L	java:S106'"+Replace this use of System.out by a logger.(Á‡û¾úÿÿÿÿ8½”ð£ã1
+U
+java:S1481,"3Remove this unused "distanceMatrix" local variable.(Ëß¿—üÿÿÿÿ8¿”ð£ã1

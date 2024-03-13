@@ -1,0 +1,11 @@
+
+
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„¨Å8Ô×éíâ1
+„
+java:S1319,"hThe type of "vehicles" should be an interface such as "List" rather than the implementation "ArrayList".(ÅŠ‘N8Ô×éíâ1
+Œ
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÇÌ;8‹±’òâ1
+‰
+java:S13195"gThe type of "clients" should be an interface such as "List" rather than the implementation "ArrayList".(ùÕ¡¥ûÿÿÿÿ8‹±’òâ1
+7
+java:S1220""Move this file to a named package.8Õ×éíâ1

@@ -1,0 +1,11 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚åªî8ò‘Åœã1
+ƒ
+java:S1319"fThe type of "depots" should be an interface such as "List" rather than the implementation "ArrayList".(ƒÿªş8ò‘Åœã1
+7
+java:S1220""Move this file to a named package.8ò‘Åœã1
+L	java:S106E"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ƒ’Åœã1
+L	java:S106P"+Replace this use of System.out by a logger.(¬˜²ùÿÿÿÿ8„’Åœã1
+F	java:S106u"+Replace this use of System.out by a logger.(ö»™68±ÜÉœã1
+L	java:S106z"+Replace this use of System.out by a logger.(Û§®üÿÿÿÿ8Á¿Óœã1
