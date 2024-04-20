@@ -10,7 +10,7 @@ Ideea este următoare:
   - fiecare player concurează cu ceilalți, deci nu va așteptă pe alții DAR așteaptă tura următoare de extragere (adică așteaptă un timp comun pentru toți și dacă e mai rapid atunci scoate un token)
   - fiecare token il stochează în lista de tokeni proprii extrași
 
-2) după extragerea tuturor tokenilor din pungă sau după ce trece un timp setat de durată a jocului, se începe crearea secvențelor complete ( t1=(i1,i2), t2=(i2,i3),...,tk=(ik,i1) ):
+2) după extragerea tuturor tokenilor din pungă sau după ce trece un timp setat de durată a jocului, se începe crearea secvențelor complete (t1=(i1,i2), t2=(i2,i3),...,tk=(ik,i1)):
   - în prima iterație se creează toate secvențele incomplete (primul token nu este obligatoriu egal cu ultimul) 
   - în ierațiile următoare se vor crea secvențele prin adăugarea altor tokeni rămași din lista de tokeni
   - și în sfârșit se mai verifică odată dacă sigur nu s-ar fi putut omite o altă secvență mai lungă
