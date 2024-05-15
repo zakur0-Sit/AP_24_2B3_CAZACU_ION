@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-15T07:38:47.678327600Z</date>
+  <millis>1715758727678</millis>
+  <nanos>327600</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Publisher added: Publisher</message>
+</record>
+<record>
+  <date>2024-05-15T07:38:47.696313800Z</date>
+  <millis>1715758727696</millis>
+  <nanos>313800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Author added: Ion Cazacu</message>
+</record>
+<record>
+  <date>2024-05-15T07:38:47.722326400Z</date>
+  <millis>1715758727722</millis>
+  <nanos>326400</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Book added: Example</message>
+</record>
+<record>
+  <date>2024-05-15T07:38:47.754345900Z</date>
+  <millis>1715758727754</millis>
+  <nanos>345900</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Book found: Example</message>
+</record>
+<record>
+  <date>2024-05-15T07:38:47.775342400Z</date>
+  <millis>1715758727775</millis>
+  <nanos>342400</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Book deleted by id : 7</message>
+</record>
+<record>
+  <date>2024-05-15T07:38:47.780348100Z</date>
+  <millis>1715758727780</millis>
+  <nanos>348100</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Author not found</message>
+</record>
+</log>
