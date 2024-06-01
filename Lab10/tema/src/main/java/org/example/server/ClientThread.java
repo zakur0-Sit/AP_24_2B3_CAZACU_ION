@@ -63,7 +63,7 @@ public class ClientThread extends Thread {
                         try {
                             game.addPlayer(this.player);
                             out.println(this.player);
-                            Thread timeControl = new Thread(new TimeControl(100000, this));
+                            Thread timeControl = new Thread(new TimeControl(10000, this));
                             timeControl.setDaemon(true);
                             timeControl.start();
                         } catch (InterruptedException e) {
